@@ -113,11 +113,6 @@ The dataset contains ecommerce transaction data from an online retail business. 
 - Create second-purchase campaigns for occasional customers.
 - Monitor at-risk high-value customers before they fully churn.
 
-## 🧾 Resume Bullet
-
-**Customer Segmentation & Retention Analysis | SQL**  
-Developed SQL-based customer segmentation using purchase frequency, spending behavior, and recency metrics. Built customer summary tables and used `CASE WHEN` logic and window functions to identify loyal, high-value, and at-risk customer groups for targeted business action.
-
 ## 🏁 Conclusion
 
 This project demonstrates how SQL can be used to turn raw ecommerce transactions into customer-level business insights. It highlights customer value, loyalty, inactivity, and retention opportunities, making it useful for marketing strategy, CRM planning, and business decision-making.
